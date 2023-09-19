@@ -9,3 +9,9 @@ I found an ideal dataset for this task which includes data about the supply chai
 In the section below, I will take you through the task of Supply Chain Analysis using the Python programming language.
 
 https://colab.research.google.com/drive/1JJm7kcECOugXb5jqixJrAEeBKMJs8NK0#scrollTo=aLzRctwgvoOK&line=1&uniqifier=1
+
+
+2.Algorithmic Trading using python
+Algorithmic Trading is the use of algorithms in the financial market to make trading decisions. JP Morgan Chase & Co. is one of the businesses that use Algorithmic Trading for investment decisions.
+
+https://colab.research.google.com/drive/1IIhuAZc8g2wZrRsalf6ZqUfEbCLESNnH#scrollTo=TkeiHMIwY_4W
